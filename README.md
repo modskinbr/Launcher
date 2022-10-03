@@ -4,7 +4,7 @@
 - [Logo](https://modskinbr.github.io/Launcher/testadores/icon.png)
 - [Icone](https://modskinbr.github.io/Launcher/testadores/icon.ico)
 - [Atualizações](https://modskinbr.github.io/Launcher/testadores/atualizacoes.xml)
-- 
+
 # Publico
 
 - [Versão](https://modskinbr.github.io/Launcher/publico/versao.txt)
