@@ -1,8 +1,31 @@
 <node>
-  <patch>
-    <title>« 7.1.0 »</title>
-<desc>              « Fora do Ar »
+
+<patch>
+
+<title>«   7.1.0   »</title>
+
+<desc>
+1 Title
+2 description
+3
+4 Title
+5 description
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
 </desc>
-    <link>https://www.google.com/</link>
-  </patch>
+
+<link>https://www.google.com/</link>
+
+</patch>
+
 </node>
